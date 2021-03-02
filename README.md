@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I play Destiny2 and Minetest sometimes!**
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M23T87Z)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arydev_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arydev_7" height="30" width="40" /></a>
