@@ -18,5 +18,7 @@ Here are some of my favorite languages.
 Follow mee around the internet.
 
 ![GitHub followers](https://img.shields.io/github/followers/arydevy?style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWECPFU69VYW3RBRtyYlkZA?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/arydev_7?style=social)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arydevy&theme=dark)](https://git.io/streak-stats)
